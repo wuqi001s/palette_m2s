@@ -1,0 +1,1 @@
+nohup python run.py -p train -c config/inpainting_places2.json > output.log 2>&1 &
